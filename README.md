@@ -1,2 +1,2 @@
-# Telegram_openwe
-Telegram bot that can check weather in your city using openweather API (bot have only Russian loc.)
+# How it works
+![me](https://github.com/Florian-Haufen/Telegram_openwe/blob/main/oqt.gif)
